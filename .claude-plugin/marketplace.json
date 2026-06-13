@@ -1,0 +1,33 @@
+{
+  "name": "lkshrk",
+  "owner": {
+    "name": "lkshrk"
+  },
+  "metadata": {
+    "description": "Agent plugin marketplace for lkshrk-maintained AI workflow plugins.",
+    "version": "0.5.2"
+  },
+  "plugins": [
+    {
+      "name": "linear-ai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lkshrk/linear-ai.git",
+        "ref": "v0.5.2"
+      },
+      "description": "Linear issue intake, setup checks, status detection, refinement, implementation, dashboard progress, and review handoff workflow skills.",
+      "version": "0.5.2",
+      "author": {
+        "name": "Linear AI"
+      },
+      "category": "development",
+      "keywords": [
+        "linear",
+        "skills",
+        "workflow",
+        "codex",
+        "claude-code"
+      ]
+    }
+  ]
+}

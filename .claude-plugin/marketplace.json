@@ -13,10 +13,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/lkshrk/linear-ai.git",
-        "ref": "v1.3.2"
+        "ref": "v1.4.0"
       },
       "description": "Linear issue intake, setup checks, status detection, refinement, implementation, dashboard progress, and review handoff workflow skills.",
-      "version": "1.3.2",
+      "version": "1.4.0",
       "author": {
         "name": "Linear AI"
       },
